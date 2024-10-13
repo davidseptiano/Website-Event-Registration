@@ -1,0 +1,19 @@
+{
+    "name": "8/event",
+    "description": "Website Event Registration",
+    "autoload": {
+        "psr-4": {
+            "8\\Event\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "davidseptiano",
+            "email": "imanuel.davidseptiano@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpoffice/phpspreadsheet": "dev-master"
+    }
+}
